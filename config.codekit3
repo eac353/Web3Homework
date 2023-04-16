@@ -225,6 +225,185 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/Houseplant Photos\/42bc787c-d400-4401-8989-5a70239a6ce8.jpg" : {
+      "ft" : 16384,
+      "iS" : 902160,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Houseplant Photos\/42bc787c-d400-4401-8989-5a70239a6ce8.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Houseplant Photos\/BlackSidetablePDP_1728x.webp" : {
+      "ft" : 8388608,
+      "iS" : 215554,
+      "oA" : 0,
+      "oAP" : "\/Houseplant Photos\/BlackSidetablePDP_1728x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/Houseplant Photos\/ConcretePDP4_1296x.webp" : {
+      "ft" : 8388608,
+      "iS" : 196160,
+      "oA" : 0,
+      "oAP" : "\/Houseplant Photos\/ConcretePDP4_1296x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/Houseplant Photos\/GloopyBlackPDP3_1728x.webp" : {
+      "ft" : 8388608,
+      "iS" : 48228,
+      "oA" : 0,
+      "oAP" : "\/Houseplant Photos\/GloopyBlackPDP3_1728x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/Houseplant Photos\/large-logo-desktop_2376x.webp" : {
+      "ft" : 8388608,
+      "iS" : 26840,
+      "oA" : 0,
+      "oAP" : "\/Houseplant Photos\/large-logo-desktop_2376x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/Houseplant Photos\/MacroStandingAshtray_1728x.webp" : {
+      "ft" : 8388608,
+      "iS" : 80772,
+      "oA" : 0,
+      "oAP" : "\/Houseplant Photos\/MacroStandingAshtray_1728x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/Houseplant Photos\/Seth_Split_Tout_794x.webp" : {
+      "ft" : 8388608,
+      "iS" : 68994,
+      "oA" : 0,
+      "oAP" : "\/Houseplant Photos\/Seth_Split_Tout_794x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/Houseplant Photos\/social-media-logos-bw.png" : {
+      "ft" : 32768,
+      "iS" : 112047,
+      "oA" : 0,
+      "oAP" : "\/Houseplant Photos\/social-media-logos-bw.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/Houseplant Photos\/standing_ashtray_1944x.webp" : {
+      "ft" : 8388608,
+      "iS" : 32592,
+      "oA" : 0,
+      "oAP" : "\/Houseplant Photos\/standing_ashtray_1944x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/Houseplant Photos\/StandingAshtrayPDP2_1944x.webp" : {
+      "ft" : 8388608,
+      "iS" : 438226,
+      "oA" : 0,
+      "oAP" : "\/Houseplant Photos\/StandingAshtrayPDP2_1944x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/Houseplant Photos\/StickLighterPDP_1080x.webp" : {
+      "ft" : 8388608,
+      "iS" : 65042,
+      "oA" : 0,
+      "oAP" : "\/Houseplant Photos\/StickLighterPDP_1080x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/Houseplant Photos\/vasebysethsidetable_9ea48459-116c-4414-b4ef-d7ea1dbcceb3_1728x.webp" : {
+      "ft" : 8388608,
+      "iS" : 342252,
+      "oA" : 0,
+      "oAP" : "\/Houseplant Photos\/vasebysethsidetable_9ea48459-116c-4414-b4ef-d7ea1dbcceb3_1728x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/Houseplant Photos\/VinylBox2PDP_1728x.webp" : {
+      "ft" : 8388608,
+      "iS" : 317926,
+      "oA" : 0,
+      "oAP" : "\/Houseplant Photos\/VinylBox2PDP_1728x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/Houseplant Photos\/􀊫.textClipping" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/Houseplant Photos\/􀊫.textClipping",
+      "oF" : 0
+    },
+    "\/Houseplant Photos\/􀋑.textClipping" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/Houseplant Photos\/􀋑.textClipping",
+      "oF" : 0
+    },
+    "\/Houseplant Photos\/􀌾.textClipping" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/Houseplant Photos\/􀌾.textClipping",
+      "oF" : 0
+    },
+    "\/Houseplant Photos\/􀰁.textClipping" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/Houseplant Photos\/􀰁.textClipping",
+      "oF" : 0
+    },
     "\/README.md" : {
       "cB" : 0,
       "cS" : 0,
