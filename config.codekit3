@@ -21,6 +21,202 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/deploy\/img\/42bc787c-d400-4401-8989-5a70239a6ce8.jpeg" : {
+      "ft" : 16384,
+      "iS" : 902160,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/42bc787c-d400-4401-8989-5a70239a6ce8.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/arrow.triangle.turn.up.right.circle@2x.png" : {
+      "ft" : 32768,
+      "iS" : 1373,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/arrow.triangle.turn.up.right.circle@2x.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/arrowtriangle.right.fill@2x.png" : {
+      "ft" : 32768,
+      "iS" : 611,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/arrowtriangle.right.fill@2x.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/BlackSidetablePDP_1296x.webp" : {
+      "ft" : 8388608,
+      "iS" : 150114,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/BlackSidetablePDP_1296x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/ConcretePDP4_1296x.webp" : {
+      "ft" : 8388608,
+      "iS" : 196160,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/ConcretePDP4_1296x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/GloopyBlackPDP3_720x.webp" : {
+      "ft" : 8388608,
+      "iS" : 18662,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/GloopyBlackPDP3_720x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/Houseplant Logo.png" : {
+      "ft" : 32768,
+      "iS" : 45700,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Houseplant Logo.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/iphone.smartbatterycase.gen2@2x.png" : {
+      "ft" : 32768,
+      "iS" : 488,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/iphone.smartbatterycase.gen2@2x.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/large-logo-mobile_750x.avif" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/large-logo-mobile_750x.avif",
+      "oF" : 0
+    },
+    "\/deploy\/img\/Lifestyle_Hero_Mobile_2c4d914f-fdd3-4201-9d1d-8ce07cbf5be7_750x.webp" : {
+      "ft" : 8388608,
+      "iS" : 102614,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Lifestyle_Hero_Mobile_2c4d914f-fdd3-4201-9d1d-8ce07cbf5be7_750x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/MacroStandingAshtray_1512x.webp" : {
+      "ft" : 8388608,
+      "iS" : 65222,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/MacroStandingAshtray_1512x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/magnifyingglass@2x.png" : {
+      "ft" : 32768,
+      "iS" : 1143,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/magnifyingglass@2x.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/Seth_Split_Tout_794x.webp" : {
+      "ft" : 8388608,
+      "iS" : 68994,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Seth_Split_Tout_794x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/standing_ashtray_1512x.webp" : {
+      "ft" : 8388608,
+      "iS" : 22068,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/standing_ashtray_1512x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/StandingAshtrayPDP2_1512x.webp" : {
+      "ft" : 8388608,
+      "iS" : 284024,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/StandingAshtrayPDP2_1512x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/StickLighterPDP_720x.webp" : {
+      "ft" : 8388608,
+      "iS" : 38252,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/StickLighterPDP_720x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/vasebysethsidetable_9ea48459-116c-4414-b4ef-d7ea1dbcceb3_1296x.webp" : {
+      "ft" : 8388608,
+      "iS" : 222422,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/vasebysethsidetable_9ea48459-116c-4414-b4ef-d7ea1dbcceb3_1296x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -40,28 +236,12 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/dev\/content\/bundles.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/bundles.html",
-      "oF" : 0
-    },
     "\/dev\/content\/bundles.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/content\/bundles.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/gallery.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/gallery.html",
       "oF" : 0
     },
     "\/dev\/content\/gallery.kit" : {
@@ -72,14 +252,6 @@
       "oAP" : "\/dev\/content\/gallery.html",
       "oF" : 0
     },
-    "\/dev\/content\/hero.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/hero.html",
-      "oF" : 0
-    },
     "\/dev\/content\/hero.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -88,28 +260,12 @@
       "oAP" : "\/dev\/content\/hero.html",
       "oF" : 0
     },
-    "\/dev\/content\/whatsnew.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/whatsnew.html",
-      "oF" : 0
-    },
     "\/dev\/content\/whatsnew.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/content\/whatsnew.html",
-      "oF" : 0
-    },
-    "\/dev\/global\/footer.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/global\/footer.html",
       "oF" : 0
     },
     "\/dev\/global\/footer.kit" : {
@@ -338,6 +494,14 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/Starting Template\/dev\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/Starting Template\/dev\/index.html",
+      "oF" : 0
     }
   },
   "hooks" : [
