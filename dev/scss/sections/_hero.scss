@@ -1,4 +1,44 @@
 #hero{
     display: grid;
     grid-template-columns: 1fr;
+    #search{
+        text-align: left;
+    }
+    #SAinfo{
+        background-color: rgb(214, 109, 78);
+        text-align: left;
+
+        //Usage
+        @include sm{
+            grid-template-columns: 1fr;
+        }
+
+        //Usage
+        @include md{
+            grid-template-columns: 2fr;
+        }
+
+        //Usage
+        @include lg{
+            grid-template-columns: 2fr;
+        }
+    }
+    #locationinfo{
+        background-color: rgb(230, 63, 2);
+        text-align: left;
+        //Usage
+        @include sm{
+            grid-template-columns: 1fr;
+        }
+
+        //Usage
+        @include md{
+            grid-template-columns: 2fr;
+        }
+
+        //Usage
+        @include lg{
+            grid-template-columns: 2fr;
+        }
+    }
 }

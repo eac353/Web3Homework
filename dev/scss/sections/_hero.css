@@ -2,3 +2,14 @@
   display: grid;
   grid-template-columns: 1fr;
 }
+#hero #search {
+  text-align: left;
+}
+#hero #SAinfo {
+  background-color: rgb(214, 109, 78);
+  text-align: left;
+}
+#hero #locationinfo {
+  background-color: rgb(230, 63, 2);
+  text-align: left;
+}
