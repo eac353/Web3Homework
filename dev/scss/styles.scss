@@ -16,6 +16,10 @@
 
 // Layout Styles
 @import "layout/_header";
-@import "layout/_footer";
+@import "sections/_footer";
 
 // Sections Styles
+@import "sections/_hero";
+@import "sections/_bundles";
+@import "sections/_gallery";
+@import "sections/_whatsnew";

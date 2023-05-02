@@ -10,11 +10,11 @@
 
     //Usage
     @include md{
-        grid-template-columns: 2fr;
+        grid-template-columns: 1fr 1fr;
     }
 
     //Usage
     @include lg{
-        grid-template-columns: 2fr;
+        grid-template-columns: 1fr 1fr;
     }
 }
