@@ -3,9 +3,27 @@
     display: grid;
     grid-template-columns: 1fr;
 
-    //Usage
-    @include sm{
-        grid-template-columns: 1fr;
+    div{
+        h1{
+            text-align: left;
+        }
+        h2{
+            text-align: left;
+        }
+        img{
+
+        }
+    }
+    div{
+        h1{
+            text-align: left;
+        }
+        h2{
+            text-align: left;
+        }
+        img{
+
+        }
     }
 
     //Usage

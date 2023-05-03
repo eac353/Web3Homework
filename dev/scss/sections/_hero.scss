@@ -1,12 +1,29 @@
 #hero{
     display: grid;
     grid-template-columns: 1fr;
-    #search{
-        text-align: left;
+    .search{
+        h1{
+            text-align: left;
+        }
+        img{
+
+        }
     }
-    #SAinfo{
+    .SAinfo{
         background-color: rgb(214, 109, 78);
         text-align: left;
+        h1{
+            text-align: left;
+        }
+        h2{
+            text-align: left;
+        }
+        h3{
+            text-align: right;
+        }
+        img{
+
+        }
 
         //Usage
         @include md{
@@ -18,10 +35,22 @@
             grid-template-columns: 1fr 1fr;
         }
     }
-    #locationinfo{
+    .locationinfo{
         background-color: rgb(230, 63, 2);
         text-align: left;
-      
+        h1{
+            text-align: left;
+        }
+        h2{
+            text-align: left;
+        }
+        h3{
+            text-align: right;
+        }
+        img{
+
+        }
+        
         //Usage
         @include md{
             grid-template-columns: 1fr 1fr;

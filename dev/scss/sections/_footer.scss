@@ -4,6 +4,37 @@
     grid-template-columns: 1fr;
     text-align: left;
 
+    div{
+        h1{
+            text-align: left;
+        }
+        h2{
+            text-align: left;
+        }
+        img{
+
+        }
+        h3{
+            text-align: left;
+        }
+    }
+    div{
+        h1{
+            text-align: left;
+        }
+        h2{
+            text-align: left;
+        }
+        h3{
+            text-align: left;
+        }
+    }
+    div{
+        h1{
+            text-align: left;
+        }
+    }
+
     //Usage
     @include md{
         grid-template-columns: 1fr 1fr;
