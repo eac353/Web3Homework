@@ -3,7 +3,11 @@
     grid-template-columns: 1fr;
     .search{
         h1{
-            text-align: left;
+            display: flex;
+            width: 100%;
+            align-items: stretch;
+            justify-content: space-between;
+            gap: 10px;
         }
         img{
 
