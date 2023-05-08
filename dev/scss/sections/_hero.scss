@@ -2,31 +2,52 @@
     display: grid;
     grid-template-columns: 1fr;
     .search{
-        h1{
-            display: flex;
-            width: 100%;
-            align-items: stretch;
-            justify-content: space-between;
-            gap: 10px;
-        }
-        img{
-
-        }
+        form#search{
+            h1{
+                display: flex;
+                width: 100%;
+                align-items: stretch;
+                justify-content: space-between;
+                gap: 10px;
+             }
+            input{
+                border: none;
+                width: 100%;
+                border-bottom: 1px solid  rgb(230, 63, 2);
+            }
+            button{
+                background-color: rgb(230, 63, 2);
+                border-radius: 3.5px;
+                border: none;
+                padding: 6px 11px;
+                img{
+                    align-items: center;
+                }
+            }
+            }
+    }
+    img{
+        align-items: stretch;
     }
     .SAinfo{
         background-color: rgb(214, 109, 78);
         text-align: left;
         h1{
             text-align: left;
+            padding: 10px;
         }
         h2{
             text-align: left;
+            padding: 10px;
         }
         h3{
             text-align: right;
+            padding: 10px;
         }
         img{
-
+            width: 14px;
+            align-items: right;
+            padding: 10px;
         }
 
         //Usage

@@ -1,28 +1,42 @@
 #bundles{
-    background-color: rgb(239, 239, 218);
     display: grid;
     grid-template-columns: 1fr;
 
     div{
-        h1{
-            text-align: left;
-        }
-        h2{
-            text-align: left;
+        div{
+            background-color: rgb(239, 239, 218);
+            h1{
+                text-align: left;
+                padding: 10px;
+            }
+            h2{
+                background-color: rgb(214, 109, 78);
+                text-align: left;
+                padding: 10px;
+            }
         }
         img{
-
+            border-radius: 100%;
+            align-items: right;
+            border: 5px;
+            border-color: white;
         }
     }
     div{
         h1{
+            background-color: rgb(239, 239, 218);
             text-align: left;
+            padding: 10px;
         }
         h2{
             text-align: left;
+            padding: 10px;
         }
         img{
-
+            border-radius: 100%;
+            align-items: right;
+            border: 5px;
+            border-color: white;
         }
     }
 
