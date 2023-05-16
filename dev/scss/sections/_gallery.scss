@@ -1,20 +1,18 @@
 #gallery{
     display: grid;
     grid-template-columns: 1fr;
-    div{
-        img{
-            align-items: center;
-        }
+    aside{
+        display: none;
+
     }
     div{
-        img{
-            align-items: center;
-        }
+        width: 897px;
     }
-    div{
-        img{
-            align-items: right;
-        }
+    article{
+        width: 452px;
+    }
+    aside{
+        width: 452px;
     }
 
     //Usage
@@ -25,5 +23,8 @@
     //Usage
     @include lg{
         grid-template-columns: 1fr 1fr;
+        aside{
+            display: inline;
+        }
     }
 }

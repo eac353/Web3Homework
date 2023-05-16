@@ -1,18 +1,28 @@
 #whatsnew{
-    background-color: rgb(239, 239, 218);
+    h1{
+        font-family: Poppins;
+        font-weight: 400;
+    }
+    background-color: rgb(244, 241, 226);
     display: grid;
     grid-template-columns: 1fr;
     div{
         img{
-
+            width: 320px;
         }
         h1{
+            font-family: Poppins;
+            font-weight: 600;
             text-align: left;
         }
         h2{
+            font-family: Poppins;
+            font-weight: 400;
             text-align: left;
         }
         h3{
+            font-family: Poppins;
+            font-weight: 600;
             text-align: left;
         }
     }

@@ -1,43 +1,59 @@
 #bundles{
     display: grid;
     grid-template-columns: 1fr;
-
+    background-color: rgb(244, 241, 226);
+    margin: 24px 16px 63px 223px;
     div{
+        display: flex;
+        margin: 24px 16px 63px 223px;
         div{
-            background-color: rgb(239, 239, 218);
+            div{
+                h1{
+                    font-family: Poppins;
+                    font-weight: 400;
+                    text-align: left;
+                    padding: 10px;
+                }
+                h2{
+                    font-family: Poppins;
+                    font-weight: 600;
+                    background-color: rgb(235, 131, 96);
+                    text-align: left;
+                    padding: 10px;
+                }
+            }
+        }
+        div{
+            img{
+                border-radius: 100%;
+                align-items: right;
+                border-color: white;
+            }
+        }
+    }
+    div{
+        display: flex;
             h1{
+                font-family: Poppins;
+                font-weight: 400;
+                background-color: rgb(244, 241, 226);
                 text-align: left;
                 padding: 10px;
             }
             h2{
-                background-color: rgb(214, 109, 78);
+                font-family: Poppins;
+                font-weight: 600;
                 text-align: left;
                 padding: 10px;
             }
-        }
-        img{
-            border-radius: 100%;
-            align-items: right;
-            border: 5px;
-            border-color: white;
-        }
-    }
-    div{
-        h1{
-            background-color: rgb(239, 239, 218);
-            text-align: left;
-            padding: 10px;
-        }
-        h2{
-            text-align: left;
-            padding: 10px;
-        }
-        img{
-            border-radius: 100%;
-            align-items: right;
-            border: 5px;
-            border-color: white;
-        }
+            img{
+                width: 113px;
+                border-radius: 100%;
+                align-items: right;
+                border-style: solid;
+                border-width: 5px;
+                border-color: white;
+            }
     }
 
     //Usage

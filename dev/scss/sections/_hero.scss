@@ -1,89 +1,116 @@
 #hero{
     display: grid;
     grid-template-columns: 1fr;
+    h3{
+        display: none;
+    }
     .search{
         form#search{
-            h1{
-                display: flex;
-                width: 100%;
-                align-items: stretch;
-                justify-content: space-between;
-                gap: 10px;
-             }
+            display: flex;
+            margin: 20px 237px 24px 220px;
             input{
+                font-family: Poppins;
+                font-weight: 200;
+                font-size: 30px;
                 border: none;
                 width: 100%;
-                border-bottom: 1px solid  rgb(230, 63, 2);
+                border-bottom: 1px solid  black;
             }
             button{
-                background-color: rgb(230, 63, 2);
+                background-color: rgb(229, 105, 63);
                 border-radius: 3.5px;
                 border: none;
                 padding: 6px 11px;
                 img{
                     align-items: center;
+                    width: 21px;
                 }
             }
             }
     }
     img{
-        align-items: stretch;
+        display: stretch;
     }
-    .SAinfo{
-        background-color: rgb(214, 109, 78);
-        text-align: left;
-        h1{
+    section{
+        display: flex;
+        .SAinfo{
+            background-color: rgb(235, 131, 96);
             text-align: left;
-            padding: 10px;
-        }
-        h2{
-            text-align: left;
-            padding: 10px;
-        }
-        h3{
-            text-align: right;
-            padding: 10px;
-        }
-        img{
-            width: 14px;
-            align-items: right;
-            padding: 10px;
-        }
+            h1{
+                font-family: Poppins;
+                font-weight: 700;
+                text-align: left;
+                padding: 10px;
+            }
+            h2{
+                font-family: Poppins;
+                font-weight: 400;
+                text-align: left;
+                padding: 10px;
+            }
+            h3{
+                font-family: Poppins;
+                font-weight: 700;
+                text-align: right;
+                padding: 10px;
+            }
+            img{
+                width: 14px;
+                align-items: right;
+                padding: 10px;
+            }
 
-        //Usage
-        @include md{
-            grid-template-columns: 1fr 1fr;
-        }
+            //Usage
+            @include md{
+                grid-template-columns: 1fr 1fr;
+            }
 
-        //Usage
-        @include lg{
-            grid-template-columns: 1fr 1fr;
+            //Usage
+            @include lg{
+                grid-template-columns: 1fr 1fr;
+                h3{
+                    display: inline;
+                }
+            }
         }
     }
-    .locationinfo{
-        background-color: rgb(230, 63, 2);
-        text-align: left;
-        h1{
+    section{
+        .locationinfo{
+            background-color: rgb(229, 105, 63);
             text-align: left;
-        }
-        h2{
-            text-align: left;
-        }
-        h3{
-            text-align: right;
-        }
-        img{
+            h1{
+                font-family: Poppins;
+                font-weight: 600;
+                text-align: left;
+            }
+            h2{
+                font-family: Poppins;
+                font-weight: 600;
+                text-align: left;
+            }
+            h3{
+                font-family: Poppins;
+                font-weight: 700;
+                text-align: right;
+            }
+            img{
+                width: 14px;
+                align-items: right;
+                padding: 10px;
+            }
+            
+            //Usage
+            @include md{
+                grid-template-columns: 1fr 1fr;
+            }
 
-        }
-        
-        //Usage
-        @include md{
-            grid-template-columns: 1fr 1fr;
-        }
-
-        //Usage
-        @include lg{
-            grid-template-columns: 1fr 1fr;
+            //Usage
+            @include lg{
+                grid-template-columns: 1fr 1fr;
+                h3{
+                    display: inline;
+                }
+            }
         }
     }
 }
